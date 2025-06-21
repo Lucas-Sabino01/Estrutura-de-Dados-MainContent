@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36121.58 d17.14
+VisualStudioVersion = 17.14.36121.58
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_EstruturasHomogeneas", "Exercicio_EstruturasHomogeneas\Exercicio_EstruturasHomogeneas.csproj", "{8F5B88A9-3589-4F76-B82F-D02BCF588DFE}"
 EndProject
@@ -22,6 +22,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_FilaEstática", "Exercicio_FilaEstática\Exercicio_FilaEstática.csproj", "{8E6F4B82-BFAA-4848-81A8-CD6636BF02E0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_ListaEstática", "Exercicio_ListaEstática\Exercicio_ListaEstática.csproj", "{E506B43E-B8E7-48DD-9E7C-C5C224046E70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simulação de Atendimento Médico com Estrutura de Dados", "Simulação de Atendimento Médico com Estrutura de Dados\Simulação de Atendimento Médico com Estrutura de Dados.csproj", "{DFF5C25C-9EB2-4B37-A79B-FCD6C928F427}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro e Gerenciamento de Pacientes com Tabela Hash", "Cadastro e Gerenciamento de Pacientes com Tabela Hash\Cadastro e Gerenciamento de Pacientes com Tabela Hash.csproj", "{5F55D7CC-8BD5-4114-A755-E9B513C14A7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementação de Menu Interativo", "Implementação de Menu Interativo\Implementação de Menu Interativo.csproj", "{7547EC44-6B12-49AD-A2BC-CF8F819BFFFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +75,18 @@ Global
 		{E506B43E-B8E7-48DD-9E7C-C5C224046E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E506B43E-B8E7-48DD-9E7C-C5C224046E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E506B43E-B8E7-48DD-9E7C-C5C224046E70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF5C25C-9EB2-4B37-A79B-FCD6C928F427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF5C25C-9EB2-4B37-A79B-FCD6C928F427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF5C25C-9EB2-4B37-A79B-FCD6C928F427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF5C25C-9EB2-4B37-A79B-FCD6C928F427}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F55D7CC-8BD5-4114-A755-E9B513C14A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F55D7CC-8BD5-4114-A755-E9B513C14A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F55D7CC-8BD5-4114-A755-E9B513C14A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F55D7CC-8BD5-4114-A755-E9B513C14A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7547EC44-6B12-49AD-A2BC-CF8F819BFFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7547EC44-6B12-49AD-A2BC-CF8F819BFFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7547EC44-6B12-49AD-A2BC-CF8F819BFFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7547EC44-6B12-49AD-A2BC-CF8F819BFFFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
