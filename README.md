@@ -6,7 +6,7 @@ Este repositório contém os projetos desenvolvidos para a disciplina de Estrutu
 
 ## Sobre o Projeto
 
-O objetivo deste projeto foi implementar e demonstrar diversas estruturas de dados e algoritmos fundamentais da ciência da computação. Cada tópico do plano de ensino foi desenvolvido como um projeto de console C# independente e interativo, todos contidos dentro desta Solução do Visual Studio.
+O objetivo deste projeto foi implementar e demonstrar diversas estruturas de dados e algoritmos fundamentais da engenharia de software . Cada tópico do plano de ensino foi desenvolvido como um projeto de console C# independente e interativo, todos contidos dentro desta Solução do Visual Studio.
 
 ### Estruturas e Algoritmos Implementados
 
