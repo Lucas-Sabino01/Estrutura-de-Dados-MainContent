@@ -102,4 +102,4 @@ Comparações realizadas: 7
 ```
 
 ---
-*Desenvolvido por: [Seu Nome Aqui]*
+*Desenvolvido por: Lucas Sabino*
