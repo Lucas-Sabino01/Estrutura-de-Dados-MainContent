@@ -2,7 +2,7 @@
 
 ## 📜 Descrição do projeto
 
-Este repositório contém a implementação de um sistema de console em C# que serve como um **laboratório interativo** para o estudo e demonstração de diversas estruturas de dados e algoritmos fundamentais da ciência da computação.
+Este repositório contém a implementação de um sistema de console em C# que serve como um **laboratório interativo** para o estudo e demonstração de diversas estruturas de dados e algoritmos fundamentais da engenharia de software.
 
 O objetivo principal é fornecer uma ferramenta didática onde o usuário pode escolher uma estrutura (Vetor, Matriz, Lista, Fila, Pilha) ou um tipo de algoritmo (Busca) e executar operações em tempo real, visualizando os resultados diretamente no terminal.
 
